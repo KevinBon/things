@@ -1,26 +1,41 @@
 # JavaScript
-=========================
+
 http://rmurphey.com/blog/2014/07/13/unit-tests/
 
+## Must Known
 
-## FrameWork
+### FrameWork
+
 * [Meteor]: Front & Server side
-## Front-End
+
+### Front-End
+
 * [React]: Flux Model
+
 ### Website template
+
 * [Freebie]: Single page responsive Bootstrap theme
     
 ## Tools
+
 ### Packagemanager
+
 * [Bower]
+
 ### Code analysis
+
 * [ESLint]
+
 ### Unit testing
+
 * [Jasmine]: No DOM involved
 * [Mocha]
 * [Selenium] : Browser automation tool
+
 ### Style guide
+
 * [Idiomatic]
+
 
 
 [Meteor]: https://www.meteor.com/
