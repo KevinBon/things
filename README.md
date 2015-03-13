@@ -11,6 +11,7 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 #### Front-End
 
 * [React]: Flux Model
+* [Polymer]: Web Components
 
 #### Website template
 
@@ -47,6 +48,6 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 [Mocha]: http://mochajs.org/
 [Selenium]: http://www.seleniumhq.org/
 [Idiomatic]: https://github.com/rwaldron/idiomatic.js
-
+[Polymer]: https://www.polymer-project.org/]
 
 
