@@ -10,10 +10,6 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 
 * [React]: Flux Model
 * [Polymer]: Web Components
-
-#### Website template
-
-* [Freebie]: Single page responsive Bootstrap theme
     
 ### Tools 
 
@@ -41,6 +37,13 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 
 * [Sanitize]: Consistent starter style
 * [AniCollection]: List of CSS animations
+
+# HTML
+
+#### Template
+
+* [Freebie]: Single page responsive Bootstrap theme
+
 
 
 [Meteor]: https://www.meteor.com/
