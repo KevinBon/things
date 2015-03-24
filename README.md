@@ -33,18 +33,16 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 
 * [Idiomatic]
 
-# CSS
-
-* [Sanitize]: Consistent starter style
-* [AniCollection]: List of CSS animations
-
 # HTML
 
 #### Template
 
 * [Freebie]: Single page responsive Bootstrap theme
 
+# CSS
 
+* [Sanitize]: Consistent starter style
+* [AniCollection]: List of CSS animations
 
 [Meteor]: https://www.meteor.com/
 [React]: https://facebook.github.io/react/index.html
