@@ -12,6 +12,7 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 
 * [React]: Flux Model
 * [Polymer]: Web Components
+* [Sanitize]: Consistent starter style
 
 #### Website template
 
@@ -51,5 +52,6 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 [Idiomatic]: https://github.com/rwaldron/idiomatic.js
 [Polymer]: https://www.polymer-project.org/]
 [Karma]: https://karma-runner.github.io/0.12/index.html
+[Sanitize]: https://rawgit.com/jonathantneal/sanitize.css/master/dist/sanitize.css
 
 
