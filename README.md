@@ -24,6 +24,7 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 #### Packagemanager
 
 * [Bower]
+* [PackageQuality]: Check the global quality of an npm package
 
 #### Code analysis
 
@@ -55,4 +56,5 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 [Karma]: https://karma-runner.github.io/0.12/index.html
 [Sanitize]: https://rawgit.com/jonathantneal/sanitize.css/master/dist/sanitize.css
 [AniCollection]: https://anicollection.github.io/#/
+[PackageQuality]: http://packagequality.com/
 
