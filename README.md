@@ -2,6 +2,9 @@
 
 http://rmurphey.com/blog/2014/07/13/unit-tests/
 
+#### Helper
+* [String to Number conversion table]
+
 #### FrameWork
 
 * [Meteor]: Front & Server side
@@ -44,6 +47,7 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 * [Sanitize]: Consistent starter style
 * [AniCollection]: List of CSS animations
 
+[String to Number conversion table]:https://stackoverflow.com/questions/17106681/parseint-vs-unary-plus-when-to-use-which#answer-17106702
 [Meteor]: https://www.meteor.com/
 [React]: https://facebook.github.io/react/index.html
 [Freebie]: http://tympanus.net/codrops/2015/03/12/freebie-forkio-one-page-website-template/
