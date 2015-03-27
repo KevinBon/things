@@ -47,6 +47,10 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 * [Sanitize]: Consistent starter style
 * [AniCollection]: List of CSS animations
 
+# Other
+
+* [Big-O Algorithm]: Big-O Algorithm Sheet
+
 [String to Number conversion table]:https://stackoverflow.com/questions/17106681/parseint-vs-unary-plus-when-to-use-which#answer-17106702
 [Meteor]: https://www.meteor.com/
 [React]: https://facebook.github.io/react/index.html
@@ -62,4 +66,5 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 [Sanitize]: https://rawgit.com/jonathantneal/sanitize.css/master/dist/sanitize.css
 [AniCollection]: https://anicollection.github.io/#/
 [PackageQuality]: http://packagequality.com/
+[Big-O Algorithm]: http://bigocheatsheet.com/
 
