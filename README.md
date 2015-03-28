@@ -50,6 +50,7 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 # Other
 
 * [Big-O Algorithm]: Big-O Algorithm Sheet
+* [HTML5 Boiler Plate]: Project Starter kit
 
 [String to Number conversion table]:https://stackoverflow.com/questions/17106681/parseint-vs-unary-plus-when-to-use-which#answer-17106702
 [Meteor]: https://www.meteor.com/
@@ -67,4 +68,4 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 [AniCollection]: https://anicollection.github.io/#/
 [PackageQuality]: http://packagequality.com/
 [Big-O Algorithm]: http://bigocheatsheet.com/
-
+[HTML5 Boiler Plate]: https://html5boilerplate.com/
