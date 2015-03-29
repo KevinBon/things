@@ -31,6 +31,7 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 * [Mocha]
 * [Selenium]: Test runner
 * [Karma]: Test runner 
+* [Jest]: Facebook
 
 #### Style guide
 
@@ -69,3 +70,4 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 [PackageQuality]: http://packagequality.com/
 [Big-O Algorithm]: http://bigocheatsheet.com/
 [HTML5 Boiler Plate]: https://html5boilerplate.com/
+[Jest]: https://github.com/facebook/jest
