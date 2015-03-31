@@ -48,6 +48,7 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 
 * [Sanitize]: Consistent starter style
 * [AniCollection]: List of CSS animations
+* [CSSAnimations]: Principles
 
 # Other
 
@@ -73,3 +74,4 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 [HTML5 Boiler Plate]: https://html5boilerplate.com/
 [Jest]: https://github.com/facebook/jest
 [Polyfill]: https://cdn.polyfill.io/v1/docs/features/
+[CSSAnimations]: https://cssanimation.rocks/principles/
