@@ -3,7 +3,7 @@
 // Feed Select element from an array
 function buildList(_$from, _array, _rowTemplate) {
 
-    if (_array == null || _rowTemplate == null || typeof _rowTemplate === 'function') {
+    if (_array == null || _rowTemplate == null || typeof _rowTemplate !== 'function') {
         return false;
     }
 
