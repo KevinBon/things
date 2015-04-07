@@ -7,12 +7,37 @@ function buildList(_$from, _array, _rowTemplate) {
         return false;
     }
 
+    // _param : {
+    //     class: // liste des classes
+    //     value: // valeur de l'option
+    //     selected: // sélectionne l'élément
+    //     text: // le texte de l'option
+    // }
+    var buildRow = function(_param) {
+
+        var props = [];
+
+        if (_param.class) {
+            props.push('class="' + _param.class + '"');
+        }
+
+        if (_param.value) {
+            props.push('value="' + _param.value + '"');
+        }
+
+        if (_param.selected) {
+            props.push('selected="selected"');
+        }
+
+        return '<option ' + props.join(' ') + '>' + _param.text + '</option>';
+    };
+
     var domToAdd = ['<option></option>'];
 
     _$from.children('option').remove();
 
     for (var i = 0, len = _array.length; i < len; i++) {
-        domToAdd.push(_rowTemplate.call(this, _array[i]));
+        domToAdd.push(buildRow(_rowTemplate.call(this, _array[i])));
     }
 
     _$from.append(domToAdd.join(''));
@@ -23,5 +48,8 @@ function buildList(_$from, _array, _rowTemplate) {
 
 // Example
 buildList($('#solution'), origines, function(_raw) {
-    return '<option ' + (_raw != _informationsDevis.Solution ? 'selected="selected"' : '') + '>' + _raw + '</option>';
+    return {
+        text: _raw.text,
+        selected: dummy = _raw.on
+    };
 });
