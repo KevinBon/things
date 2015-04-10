@@ -8,7 +8,7 @@ function buildList(_$from, _array, _rowTemplate) {
     }
 
     // _param : {
-    //     class: // liste des classes
+    //     classes: // liste des classes
     //     value: // valeur de l'option
     //     selected: // sélectionne l'élément
     //     text: // le texte de l'option
@@ -17,8 +17,8 @@ function buildList(_$from, _array, _rowTemplate) {
 
         var props = [];
 
-        if (_param.class) {
-            props.push('class="' + _param.class + '"');
+        if (_param.classes) {
+            props.push('class="' + _param.classes + '"');
         }
 
         if (_param.value) {
@@ -50,6 +50,6 @@ function buildList(_$from, _array, _rowTemplate) {
 buildList($('#solution'), origines, function(_raw) {
     return {
         text: _raw.text,
-        selected: dummy = _raw.on
+        selected: dummy === _raw.on
     };
 });
