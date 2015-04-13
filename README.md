@@ -17,6 +17,8 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
     
 ### Tools 
 
+* [JSCS]: Code Style Linter
+
 #### Packagemanager
 
 * [Bower]
@@ -75,3 +77,4 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 [Jest]: https://github.com/facebook/jest
 [Polyfill]: https://cdn.polyfill.io/v1/docs/features/
 [CSSAnimations]: https://cssanimation.rocks/principles/
+[JSCS]: http://jscs.info/
