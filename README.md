@@ -60,6 +60,7 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 
 * [Big-O Algorithm]: Big-O Algorithm Sheet
 * [HTML5 Boiler Plate]: Project Starter kit
+* [Free-for-dev]: List of free tools for dev
 
 [String to Number conversion table]:https://stackoverflow.com/questions/17106681/parseint-vs-unary-plus-when-to-use-which#answer-17106702
 [Meteor]: https://www.meteor.com/
@@ -82,4 +83,5 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 [Polyfill]: https://cdn.polyfill.io/v1/docs/features/
 [CSSAnimations]: https://cssanimation.rocks/principles/
 [JSCS]: http://jscs.info/
-[Layzr]:https://callmecavs.github.io/layzr.js/
+[Layzr]: https://callmecavs.github.io/layzr.js/
+[Free-for-dev]: https://github.com/ripienaar/free-for-dev#paas
