@@ -40,6 +40,10 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 
 * [Idiomatic]
 
+### ...
+
+*[Layzr]: Lazy image loader
+
 # HTML
 
 #### Template
@@ -78,3 +82,4 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 [Polyfill]: https://cdn.polyfill.io/v1/docs/features/
 [CSSAnimations]: https://cssanimation.rocks/principles/
 [JSCS]: http://jscs.info/
+[Layzr]:https://callmecavs.github.io/layzr.js/
