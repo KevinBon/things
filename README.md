@@ -27,6 +27,7 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 #### Code analysis
 
 * [ESLint]
+* [JsInspect]:  Detect copy-pasted and structurally similar code
 
 #### Unit testing
 
@@ -85,3 +86,4 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 [JSCS]: http://jscs.info/
 [Layzr]: https://callmecavs.github.io/layzr.js/
 [Free-for-dev]: https://github.com/ripienaar/free-for-dev#paas
+[JsInspect]: https://github.com/danielstjules/jsinspect
