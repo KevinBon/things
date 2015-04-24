@@ -54,7 +54,7 @@ buildList($('#solution'), origines, function(_raw) {
     };
 });
 
-// --
+// -- Module
 (function(myApp) {
   myApp.init = function() {
     // kick off your code
@@ -66,4 +66,20 @@ buildList($('#solution'), origines, function(_raw) {
 // Only include at end of main application...
 $(document).ready(function() {
   window.myApp.init();
+});
+
+// Constructor
+var Application = (function() {
+  function Application() {
+    // kick off your code
+  }
+
+  Application.prototype.handleClick = function() {};
+
+  return Application;
+}());
+
+// Only include at end of main application...
+$(document).ready(function() {
+  new Application();
 });
