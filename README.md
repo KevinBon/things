@@ -18,6 +18,7 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 ### Tools 
 
 * [JSCS]: Code Style Linter
+* [Ng-Inspector]: Angular ng-* web-browser inspector
 
 #### Packagemanager
 
@@ -87,3 +88,4 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 [Layzr]: https://callmecavs.github.io/layzr.js/
 [Free-for-dev]: https://github.com/ripienaar/free-for-dev#paas
 [JsInspect]: https://github.com/danielstjules/jsinspect
+[Ng-Inspector]: http://ng-inspector.org/
