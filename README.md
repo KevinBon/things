@@ -63,6 +63,7 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 * [Big-O Algorithm]: Big-O Algorithm Sheet
 * [HTML5 Boiler Plate]: Project Starter kit
 * [Free-for-dev]: List of free tools for dev
+* [GitIgnore]: git .ignore helper
 
 [String to Number conversion table]:https://stackoverflow.com/questions/17106681/parseint-vs-unary-plus-when-to-use-which#answer-17106702
 [Meteor]: https://www.meteor.com/
@@ -89,3 +90,4 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 [Free-for-dev]: https://github.com/ripienaar/free-for-dev#paas
 [JsInspect]: https://github.com/danielstjules/jsinspect
 [Ng-Inspector]: http://ng-inspector.org/
+[GitIgnore]: https://www.gitignore.io/
