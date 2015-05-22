@@ -98,6 +98,6 @@ var templates = {
     return `${templates.stackPersons(_persons)} will be happy <3`;
   }
 };
-templates.catchy('Yorick', 'Stan', 'Paul', 'John');
+templates.catchy('Yorick', 'Stan', 'Paul', 'John'); // "Yorick and Stan and Paul and John will be happy <3"
 ```
 
