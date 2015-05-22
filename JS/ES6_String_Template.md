@@ -66,7 +66,7 @@ console.log(test, str);        // 16  1 + 1 = 14
 ```
 The only way i found to use the String template as a variable is to use it as a function
 
-> Solution
+> Solution 1 : Simple
 
 ```js
 var templates = {
@@ -79,4 +79,25 @@ templates.catchy('Youtube', 'Internet', 'Happy'); // Youtube and Internet will b
 templates.catchy('John', 'Johnny', 'JohnJohnny'); // John and Johnny will be JohnJohnny
 ````
 
+> Solution 2 : Dynamic
+
+```js
+var templates = {
+  rowStack: _name => {
+     return ` and ${_name}`;
+  },
+  stackPersons: persons => {
+      var retour = persons[0];
+    
+      for (var i = 1, len = persons.length; i < len; i++) {
+        retour += templates.rowStack(persons[i]);
+      }
+      return retour;
+  },
+  catchy: (..._persons) => {
+    return `${templates.stackPersons(_persons)} will be happy <3`;
+  }
+};
+templates.catchy('Yorick', 'Stan', 'Paul', 'John');
+```
 
