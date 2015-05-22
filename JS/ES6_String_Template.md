@@ -75,8 +75,8 @@ var templates = {
   }
   // ...
 };
-templates.catchy('Youtube', 'Internet', 'Happy');
-templates.catchy('John', 'Johnny', 'JohnJohnny');
+templates.catchy('Youtube', 'Internet', 'Happy'); // Youtube and Internet will be Happy
+templates.catchy('John', 'Johnny', 'JohnJohnny'); // John and Johnny will be JohnJohnny
 ````
 
 
