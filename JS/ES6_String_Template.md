@@ -1,4 +1,4 @@
-### Templating
+### String Templating
 
 #### Example
 
