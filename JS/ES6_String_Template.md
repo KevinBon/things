@@ -3,6 +3,7 @@
 #### Example
 
 > ES5
+
 ```js
   var val = 14,
       str = 'result: ' + val;
@@ -10,11 +11,13 @@
 ```
 
 > ES6
+
 ```js
   var val = 14,
       str = `result: ${val}`;
   // str = "result: 14"
 ```
+
 #### Cons 
 ##### Cross Scripting vulnerability
 
@@ -46,6 +49,7 @@ var EscapeHTML = (_templateData, ..._vars) => {
 The assignement is done one time and will be typed as a string, and will never been re-rendered through times.
 
 > Tests
+
 ```js
 var test = 14,
     updatedValue = function() {
@@ -63,6 +67,7 @@ console.log(test, str);        // 16  1 + 1 = 14
 The only way i found to use the String template as a variable is to use it as a function
 
 > Solution
+
 ```js
 var templates = {
   catchy: (_one, _two, _three) => {
@@ -70,7 +75,6 @@ var templates = {
   }
   // ...
 };
-
 templates.catchy('Youtube', 'Internet', 'Happy');
 templates.catchy('John', 'Johnny', 'JohnJohnny');
 ````
