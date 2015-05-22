@@ -1,6 +1,6 @@
-## Templating
+### Templating
 
-### ES5
+> ES5
 ```js
   var val = 14,
       str = 'result: ' + val;
@@ -8,7 +8,7 @@
 ```
 
 
-### ES6
+> ES6
 ```js
   var val = 14,
       str = `result: ${val}`;
