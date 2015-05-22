@@ -1,5 +1,8 @@
 ### Templating
 
++ Cons 
+  - Cross Scripting vulnerability
+
 > ES5
 ```js
   var val = 14,
