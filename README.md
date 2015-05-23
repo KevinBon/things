@@ -92,4 +92,4 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 [JsInspect]: https://github.com/danielstjules/jsinspect
 [Ng-Inspector]: http://ng-inspector.org/
 [GitIgnore]: https://www.gitignore.io/
-[FomratJS]: http://formatjs.io/
+[FormatJS]: http://formatjs.io/
