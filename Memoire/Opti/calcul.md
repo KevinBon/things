@@ -12,7 +12,13 @@ Source:
 [Diff tree]
 
 
-Hash Table (Dico) > Array
+Hash Table:
+ length: non natif  (à gérer)
+ index: fonction d'iteration à créer
+ tri: obligatoire, par la key et par ordre alphabétique
+Array:
+ moins performant
+ 
 
 [React Algo]: http://calendar.perfplanet.com/2013/diff/
 [Diff tree]: https://github.com/Matt-Esch/virtual-dom/blob/master/vtree/diff-props.js
