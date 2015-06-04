@@ -11,6 +11,9 @@ Infos:
 Source:
 [Diff tree]
 
+
+Hash Table (Dico) > Array
+
 [React Algo]: http://calendar.perfplanet.com/2013/diff/
 [Diff tree]: https://github.com/Matt-Esch/virtual-dom/blob/master/vtree/diff-props.js
 
