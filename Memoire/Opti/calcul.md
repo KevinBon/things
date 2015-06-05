@@ -13,11 +13,13 @@ Source:
 
 
 Hash Table:
- length: non natif  (à gérer)
- index: fonction d'iteration à créer
- tri: obligatoire, par la key et par ordre alphabétique
++ length: non natif  (à gérer)
++ index: fonction d'iteration à créer
++ tri: obligatoire, par la key et par ordre alphabétique
++ objet plus lourd
+
 Array:
- moins performant
++ moins performant
  
 
 [React Algo]: http://calendar.perfplanet.com/2013/diff/
