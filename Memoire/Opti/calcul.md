@@ -15,7 +15,7 @@ Source:
 Hash Table:
 + length: non natif  (à gérer)
 + index: fonction d'iteration à créer
-+ tri: obligatoire, par la key et par ordre alphabétique
++ tri: obligatoire par ordre croissant en key numérique
 + objet plus lourd
 
 Array:
