@@ -1,4 +1,5 @@
 ```js
+// noprotect
 var elems = (function() {
   var tmp = [];
   for (var i = 0; i < 5000; i++) {
@@ -14,27 +15,27 @@ function clearElems() {
   $('#list').children().remove();
 }
 
-function nonOptimisee(elems) {
+function nonOptimisee(currentElems) {
   console.profile('nonOptimisee');
-  for(var i= 0; i < elems.length; i++) {
-    $('#list').append('<li data-id="' + elems[i].id + '">' + elems[i].name + '</li>');
+  for (var i = 0; i < currentElems.length; i++) {
+    $('#list').append('<li data-id="' + elems[i].id + '">' + currentElems[i].name + '</li>');
   }
   console.profileEnd('nonOptimisee');
 }
 
-function optimisee(elems) {
+function optimisee(currentElems) {
   console.profile('optimisee');
   var domToAdd = [];
-  for(var i= 0, len = elems.length; i < len; i++) {
-    domToAdd.push('<li data-id="' + elems[i].id +'">' + elems[i].name + '</li>');
+  for (var i = 0, len = currentElems.length; i < len; i++) {
+    domToAdd.push('<li data-id="' + elems[i].id + '">' + currentElems[i].name + '</li>');
   }
   $('#list').append(domToAdd.join(''));
   console.profileEnd('optimisee');
 }
 
 $('#nonOptimisee').on('click', function() {
-   clearElems();
-   nonOptimisee(elems);
+ clearElems();
+ nonOptimisee(elems);
 });
 
 $('#optimisee').on('click', function() {
