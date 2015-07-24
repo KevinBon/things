@@ -15,3 +15,6 @@ const jqueryLgth = $(foo).find('div span').length;
 // Le selecteur Natif retourne 1 (Incorrect)
 const nativeLgt = foo.querySelectorAll('div span').length;
 ```
+[JSBin]
+
+[JSBin]: http://jsbin.com/bovopi/edit?html,js,console
