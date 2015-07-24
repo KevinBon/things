@@ -42,3 +42,7 @@ $('#optimisee').on('click', function() {
    optimisee(elems);
 });
 ```
+[JSBin]
+
+[JSBin]: http://jsbin.com/gebemo/edit?js,output
+
