@@ -4,7 +4,7 @@ Useless
 const fizzBuzz = (function(iterators = 100) {
   // Because
   function* retour(value) {
-    if (value % 3 === 0 && value % 5 === 0) {
+    if (value % 15 === 0) {
      yield 'FizzBuzz';
     }
     else if (value % 3 === 0) {
