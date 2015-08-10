@@ -1,7 +1,7 @@
 Useless
 
 ```js
-var fizzBuzz = (function(iterators = 100) {
+const fizzBuzz = (function(iterators = 100) {
   // Because
   function* retour(value) {
     if (value % 3 === 0 && value % 5 === 0) {
