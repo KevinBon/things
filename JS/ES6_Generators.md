@@ -2,10 +2,8 @@ Useless
 
 ```js
 var fizzBuzz = (function(iterators = 100) {
-  
+  // Because
   function* retour(value) {
-    let retour = null;
-  
     if (value % 3 === 0 && value % 5 === 0) {
      yield 'FizzBuzz';
     }
