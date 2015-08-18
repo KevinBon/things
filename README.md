@@ -45,6 +45,7 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 
 ### ...
 
+*[ES6]: ES6
 *[Layzr]: Lazy image loader
 
 # HTML
@@ -93,3 +94,4 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 [Ng-Inspector]: http://ng-inspector.org/
 [GitIgnore]: https://www.gitignore.io/
 [FormatJS]: http://formatjs.io/
+[ES6]: http://exploringjs.com/es6/index.html#toc_ch_maps-sets
