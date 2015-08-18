@@ -15,6 +15,7 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 
 * [React]: Flux Model
 * [Polymer]: Web Components
+* [UpUp]: Offline manager
     
 ### Tools 
 
@@ -95,3 +96,4 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 [GitIgnore]: https://www.gitignore.io/
 [FormatJS]: http://formatjs.io/
 [ES6]: http://exploringjs.com/es6/index.html#toc_ch_maps-sets
+[UpUp]: https://www.talater.com/upup/
