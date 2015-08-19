@@ -47,8 +47,8 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 
 ### ...
 
-*[ES6]: ES6
-*[Layzr]: Lazy image loader
+* [ES6]: ES6
+* [Layzr]: Lazy image loader
 
 # HTML
 
