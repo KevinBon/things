@@ -39,7 +39,7 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 * [Selenium]: Test runner
 * [Karma]: Test runner 
 * [Jest]: Facebook
-* [Coverall]: Code test coverage analysis (Free)
+* [Coveralls]: Code test coverage analysis (Free)
 
 #### Style guide
 
