@@ -32,13 +32,14 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 * [ESLint]
 * [JsInspect]:  Detect copy-pasted and structurally similar code
 
-#### Unit testing
+#### Test
 
 * [Jasmine]: No DOM involved
 * [Mocha]
 * [Selenium]: Test runner
 * [Karma]: Test runner 
 * [Jest]: Facebook
+* [Coverall]: Code test coverage analysis (Free)
 
 #### Style guide
 
@@ -97,3 +98,4 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 [FormatJS]: http://formatjs.io/
 [ES6]: http://exploringjs.com/es6/index.html#toc_ch_maps-sets
 [UpUp]: https://www.talater.com/upup/
+[Coveralls]: https://coveralls.io/
