@@ -28,3 +28,4 @@ class CommonFunctions {
             '_idKey' => $idKey,
         ))['result'];
     }
+}
