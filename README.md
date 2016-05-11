@@ -68,6 +68,7 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 * [HTML5 Boiler Plate]: Project Starter kit
 * [Free-for-dev]: List of free tools for dev
 * [GitIgnore]: git .ignore helper
+* [Design-Resources]: Design resources
 
 [String to Number conversion table]:https://stackoverflow.com/questions/17106681/parseint-vs-unary-plus-when-to-use-which#answer-17106702
 [Meteor]: https://www.meteor.com/
@@ -99,3 +100,4 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 [ES6]: http://exploringjs.com/es6/index.html#toc_ch_maps-sets
 [UpUp]: https://www.talater.com/upup/
 [Coveralls]: https://coveralls.io/
+[Design-Resources]:https://resourcecards.com/
