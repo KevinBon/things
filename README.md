@@ -6,6 +6,7 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 * [String to Number conversion table]
 * [Polyfill]: Js Compatibility table + Polyfill
 * [FormatJS]: Internationalize Client & Server side
+* [Listeners]: Usefull listeners
 
 #### FrameWork
 
@@ -101,3 +102,4 @@ http://rmurphey.com/blog/2014/07/13/unit-tests/
 [UpUp]: https://www.talater.com/upup/
 [Coveralls]: https://coveralls.io/
 [Design-Resources]:https://resourcecards.com/
+[Listeners]: https://ericbidelman.tumblr.com/post/149032341876/observing-your-web-app
