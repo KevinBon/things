@@ -47,6 +47,7 @@
 #### Style guide
 
 * [Idiomatic]
+* [Brands-Styleguide] : Style guide examples from various Brands 
 
 ### ...
 
@@ -106,3 +107,4 @@
 [Design-Resources]:https://resourcecards.com/
 [Listeners]: https://ericbidelman.tumblr.com/post/149032341876/observing-your-web-app
 [Awesome-Components]: https://github.com/brillout/awesome-react-components
+[Brands-Stylguide]: http://styleguides.io/examples.html
