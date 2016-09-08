@@ -14,6 +14,9 @@
 
 * [Awesome-Components]: Top Components
 
+#### Electron
+* [Electron-Essentials]:
+
 #### Front-End
 
 * [React]: Flux Model
@@ -108,3 +111,4 @@
 [Listeners]: https://ericbidelman.tumblr.com/post/149032341876/observing-your-web-app
 [Awesome-Components]: https://github.com/brillout/awesome-react-components
 [Brands-Stylguide]: http://styleguides.io/examples.html
+[Electron-Essentials]: https://nodesource.com/blog/fifteen-essential-packages-to-get-started-with-electron/
