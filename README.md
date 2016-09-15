@@ -76,6 +76,7 @@
 * [Free-for-dev]: List of free tools for dev
 * [GitIgnore]: git .ignore helper
 * [Design-Resources]: Design resources
+* [Awesome-Design]: Awesome design
 
 [String to Number conversion table]:https://stackoverflow.com/questions/17106681/parseint-vs-unary-plus-when-to-use-which#answer-17106702
 [Meteor]: https://www.meteor.com/
@@ -112,3 +113,4 @@
 [Awesome-Components]: https://github.com/brillout/awesome-react-components
 [Brands-Stylguide]: http://styleguides.io/examples.html
 [Electron-Essentials]: https://nodesource.com/blog/fifteen-essential-packages-to-get-started-with-electron/
+[Awesome-Design]: https://github.com/gztchan/awesome-design
