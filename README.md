@@ -46,6 +46,7 @@
 * [Karma]: Test runner 
 * [Jest]: Facebook
 * [Coveralls]: Code test coverage analysis (Free)
+* [TestCafe]: all fron task test runner
 
 #### Style guide
 
@@ -114,3 +115,4 @@
 [Brands-Stylguide]: http://styleguides.io/examples.html
 [Electron-Essentials]: https://nodesource.com/blog/fifteen-essential-packages-to-get-started-with-electron/
 [Awesome-Design]: https://github.com/gztchan/awesome-design
+[TestCafe]: https://github.com/DevExpress/testcafe
