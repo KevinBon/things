@@ -13,6 +13,7 @@
 #### React
 
 * [Awesome-Components]: Top Components
+* [Blueprint]: UI Toolkit
 
 #### Electron
 * [Electron-Essentials]:
@@ -116,3 +117,4 @@
 [Electron-Essentials]: https://nodesource.com/blog/fifteen-essential-packages-to-get-started-with-electron/
 [Awesome-Design]: https://github.com/gztchan/awesome-design
 [TestCafe]: https://github.com/DevExpress/testcafe
+[Blueprint]: https://github.com/palantir/blueprint
