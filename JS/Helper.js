@@ -148,3 +148,8 @@ function bombUpLocalStorage() {
 		throw new Error(e);
 	}
 }
+
+// Benchmark: https://developer.mozilla.org/en-US/docs/Web/API/Performance/now
+var t0 = performance.now();
+doSomething();
+var t1 = performance.now();
