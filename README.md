@@ -15,6 +15,10 @@
 * [Awesome-Components]: Top Components
 * [Blueprint]: UI Toolkit
 
+### Vue 2.0
+
+* [Element]: UI Toolkit
+
 #### Electron
 * [Electron-Essentials]:
 
@@ -118,3 +122,4 @@
 [Awesome-Design]: https://github.com/gztchan/awesome-design
 [TestCafe]: https://github.com/DevExpress/testcafe
 [Blueprint]: https://github.com/palantir/blueprint
+[Element]: http://element.eleme.io/#/en-US
