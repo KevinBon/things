@@ -74,6 +74,7 @@
 * [Sanitize]: Consistent starter style
 * [AniCollection]: List of CSS animations
 * [CSSAnimations]: Principles
+* [Animista]: List of CSS animations (cooler).
 
 # Other
 
@@ -123,3 +124,4 @@
 [TestCafe]: https://github.com/DevExpress/testcafe
 [Blueprint]: https://github.com/palantir/blueprint
 [Element]: http://element.eleme.io/#/en-US
+[Animista]: http://animista.net/
