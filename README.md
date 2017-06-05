@@ -62,6 +62,7 @@
 
 * [ES6]: ES6
 * [Layzr]: Lazy image loader
+* [FreeSSL]: Free SSL Certificate
 
 # HTML
 
@@ -125,3 +126,4 @@
 [Blueprint]: https://github.com/palantir/blueprint
 [Element]: http://element.eleme.io/#/en-US
 [Animista]: http://animista.net/
+[FreeSSL]: https://hackernoon.com/stop-paying-for-ssl-certificates-e6bc64754cd4
