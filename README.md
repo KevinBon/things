@@ -78,7 +78,7 @@
 * [CSSAnimations]: Principles
 * [Animista]: List of CSS animations (cooler).
 
-#### CheatSheet
+# CheatSheet
 
 * [Flexbox_cs]: Flexbox
 * [SASS_cs]: SASS
@@ -136,7 +136,7 @@
 [Animista]: http://animista.net/
 [FreeSSL]: https://hackernoon.com/stop-paying-for-ssl-certificates-e6bc64754cd4
 [ORY]: https://www.ory.am/sites/
-[Flexbox_cs]:https://yoksel.github.io/flex-cheatsheet/
-[SASS_cs]:https://devhints.io/sass
-[React_cs]:https://devhints.io/react
-[Redux_cs]:https://raw.githubusercontent.com/linkmesrl/react-journey-2016/master/resources/egghead-redux-cheat-sheet-3-2-1.pdf
+[Flexbox_cs]: https://yoksel.github.io/flex-cheatsheet/
+[SASS_cs]: https://devhints.io/sass
+[React_cs]: https://devhints.io/react
+[Redux_cs]: https://raw.githubusercontent.com/linkmesrl/react-journey-2016/master/resources/egghead-redux-cheat-sheet-3-2-1.pdf
