@@ -1,0 +1,42 @@
+$brand-color: pink;
+$base-colors: (
+  'brand': $brand-color,
+);
+$borders: 1px, 0, 2px, 4px, 8px;
+$positions: (
+  'top': 't',
+  'right': 'r',
+  'bottom': 'b',
+  'left': 'l'
+)
+
+@for $i from 1 through length($borders) {
+  $border: nth($borders, $i) solid !important;
+
+  @if $i == 1 {
+    .border {
+      border: $border;
+    }
+    @each $position, $positionShortcut in $positions {
+      .border-#{$positionShortcut} {
+        border-#{$position}: $border;
+      }
+    }
+  }
+
+  .border-#{$i} {
+    border: $border;
+  }
+  @each $position, $positionShortcut in $positions {
+    .border-#{$positionShortcut}-#{$i} {
+      border-#{$position}: $border;
+    }
+  }
+}
+
+
+@each $name, $color in $base-colors {
+  .#{$name}--border {
+    border-color: $color !important;
+  }
+}
