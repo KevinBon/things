@@ -14,19 +14,19 @@
 
 each(@paddings-margins, {
     @pxShortcut: @value;
-    @pxValue: @value * 1px;
+    @pxValue: if(@value > 0, @value * 1px, 0);
 
     each(.spacingProperties(), .(@spacingPropertyShortcut, @spacingPropertyName) {
 
       .@{spacingPropertyShortcut}-@{pxShortcut} {
         @{spacingPropertyName}: @pxValue !important;
       }
-      
+
       .@{spacingPropertyShortcut}x-@{pxShortcut} {
         @{spacingPropertyName}-left: @pxValue !important;
         @{spacingPropertyName}-right: @pxValue !important;
       }
-      
+
       .@{spacingPropertyShortcut}y-@{pxShortcut} {
         @{spacingPropertyName}-top: @pxValue !important;
         @{spacingPropertyName}-botom: @pxValue !important;
