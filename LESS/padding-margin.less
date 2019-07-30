@@ -1,0 +1,42 @@
+@paddings-margins: 0, 2, 4, 8, 12;
+
+.positions() {
+  top: t;
+  right: r;
+  bottom: b;
+  left: l;
+}
+
+.spacingProperties() {
+  padding: p;
+  margin: m;
+}
+
+each(@paddings-margins, {
+    @pxShortcut: @value;
+    @pxValue: @value * 1px;
+
+    each(.spacingProperties(), .(@spacingPropertyShortcut, @spacingPropertyName) {
+
+      .@{spacingPropertyShortcut}-@{pxShortcut} {
+        @{spacingPropertyName}: @pxValue !important;
+      }
+      
+      .@{spacingPropertyShortcut}x-@{pxShortcut} {
+        @{spacingPropertyName}-left: @pxValue !important;
+        @{spacingPropertyName}-right: @pxValue !important;
+      }
+      
+      .@{spacingPropertyShortcut}y-@{pxShortcut} {
+        @{spacingPropertyName}-top: @pxValue !important;
+        @{spacingPropertyName}-botom: @pxValue !important;
+      }
+
+      each(.positions(), .(@propertyShortcut, @propertyName) {
+
+        .@{spacingPropertyShortcut}@{propertyShortcut}-@{pxShortcut} {
+          @{spacingPropertyName}-@{propertyName}: @pxValue !important;
+        }
+      })
+    })
+})
