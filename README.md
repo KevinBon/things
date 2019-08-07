@@ -15,43 +15,26 @@
 * [Awesome-Components]: Top Components
 * [Blueprint]: UI Toolkit
 
-### Vue 2.0
+### Vue
 
 * [Element]: UI Toolkit
-
-#### Electron
-* [Electron-Essentials]:
+* [Vuestic-admin](https://github.com/epicmaxco/vuestic-admin): UI
 
 #### Front-End
 
 * [React]: Flux Model
-* [Polymer]: Web Components
 * [UpUp]: Offline manager
     
 ### Tools 
 
-* [JSCS]: Code Style Linter
-* [Ng-Inspector]: Angular ng-* web-browser inspector
+#### Package Manager
 
-#### Packagemanager
-
-* [Bower]
 * [PackageQuality]: Check the global quality of an npm package
-
-#### Code analysis
-
-* [ESLint]
-* [JsInspect]:  Detect copy-pasted and structurally similar code
 
 #### Test
 
-* [Jasmine]: No DOM involved
-* [Mocha]
-* [Selenium]: Test runner
-* [Karma]: Test runner 
-* [Jest]: Facebook
 * [Coveralls]: Code test coverage analysis (Free)
-* [TestCafe]: all fron task test runner
+* [TestCafe]: all front task test runner
 
 #### Style guide
 
