@@ -1,14 +1,16 @@
 # JavaScript
 
+## Favorites
+
+* https://htmldom.dev/
+* https://1loc.dev/
+* https://csslayout.io/patterns
+
 #### Helper
 * [String to Number conversion table]
 * [Polyfill]: Js Compatibility table + Polyfill
 * [FormatJS]: Internationalize Client & Server side
 * [Listeners]: Usefull listeners
-
-#### FrameWork
-
-* [Meteor]: Front & Server side
 
 #### React
 
